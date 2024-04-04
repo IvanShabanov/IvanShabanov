@@ -19,8 +19,8 @@ FullStack программист.
 :)
 
 
-Модете поддержать меня на boosty https://boosty.to/ispro
-
+Можете поддержать меня на boosty https://boosty.to/ispro
+или поучаствовать в сборе https://www.sberbank.com/ru/person/dl/jc?linkname=jGTzsJPtWFkAxVW2S
 
 <!---
 IvanShabanov/IvanShabanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
